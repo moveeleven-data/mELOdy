@@ -33,13 +33,13 @@ passed to the engine.
 
 ## Key Features
 
-| Capability | What you get |
-|------------|--------------|
+| Capability | What you get                                                 |
+|------------|--------------------------------------------------------------|
 | Musical protocol | Deterministic grammar for files, ranks, castling, promotions |
-| Real-time MIDI | Sub-10ms I/O via `mido` + `python-rtmidi` |
-| Engine integration | Stockfish with Elo capped for human-like play |
-| Bi-directional play | Both you and the engine communicate purely in music |
-| UX gestures | Sustain pedal for take-back, commit, or draw offers |
+| Real-time MIDI | Sub-10ms I/O via `mido` + `python-rtmidi`                    |
+| Engine integration | Stockfish with Elo capped for human-like play                |
+| Bi-directional play | Both you and the engine communicate purely in music          |
+| UX gestures | Sustain pedal for phrase boundaries                          |
 
 
 ## Quickstart
