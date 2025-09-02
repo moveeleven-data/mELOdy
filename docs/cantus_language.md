@@ -24,9 +24,7 @@ A move (except promotions) requires **two phrases**:
 ### **Step 1: Starting Square**
 Find the file’s **reference square** on the a1–h8 diagonal.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White: begin from scale degree **1** (tonic) and ascend to the reference.  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black: begin from scale degree **8** (octave) and descend to the reference.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Begin from scale degree **1** (tonic) and ascend to the reference.
 
 Then move to the scale degree representing the actual rank.
 
@@ -148,6 +146,9 @@ Use decoration to add character without obscuring the square.
 - **Optional coloration:** if the final pitch is scale degree 2, 3, 6, or 7, you may flatten it for expressive effect  
 
 **Rule of thumb:** the last sustained pitch always identifies the square, even if ornaments or grace notes precede it.
+
+**Note: It is also possible for Black to begin from scale degree 8 (octave) and descend to the reference, mirroring 
+White.**
 
 ## Concluding Figures
 
