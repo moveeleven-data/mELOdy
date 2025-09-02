@@ -2,14 +2,13 @@
   <img src="docs/assets/melody_logo2.png" alt="mELOdy logo" width="400"/>
 </p>
 
-<h3 align="center"> Chess Through Musical Improvisation</h3>
+<h3 align="center"> Chess Through Musical Improvisation</h3><br/>
 
 <p align="center">
-  Play a complete game of chess entirely through music.
-
-Every move is expressed as a melodic phrase, with the engine answering in the same language.
-  <br/><br/>
+  Play a complete game of chess entirely through music.<br/><br/>
+  Every move is expressed as a melodic phrase, with the engine answering in the same language.
 </p>
+<br/><br/>
 
 <p align="center"><b>▷ See It in Action (demo coming soon)</b></p>
 
