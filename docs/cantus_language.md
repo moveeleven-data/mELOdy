@@ -126,7 +126,7 @@ Draw offers have two parts: **making the offer** and **responding**.
 ### Offer a Draw
 1. Play your move normally.  
 2. Play the first scale degree (e.g., **C**).  
-3. Descend to any pitch (e.g. **B♭, B♮, A**).  
+3. Descend (leaping) to any pitch (e.g. **A, Ab, G, etc.**).  
 4. Improvise an **ascending, questioning phrase**.
 
 ### Respond to a Draw
