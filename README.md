@@ -70,7 +70,7 @@ python -m melody
 - mido + python-rtmidi (MIDI I/O)
 - python-chess (rules & legality)
 - Stockfish (engine)
-- Optional: LC0 Maia nets for human-like style
+- LC0 Maia nets for human-like style
 
 ---
 
