@@ -30,28 +30,20 @@ Then move to the scale degree representing the actual rank.
 
 **Examples**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White e5 → `1 – ↑5`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e5 → `1 – ↑5`  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black e5 → `8 – ↓5`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White e7 → `1 – ↑5 – ↑7`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black e7 → `8 – ↓5 – ↑7`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e7 → `1 – ↑5 – ↑7`  
 
 ### **Step 2: Landing Square**
 Apply the same process again for the target square.  
 
 **Example: e7 → e2**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White: `1 – ↑5 – ↑7 , 1 – ↑5 – ↓2`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black: `8 – ↓5 – ↑7 , 8 – ↓5 – ↓2`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `1 – ↑5 – ↑7 , 1 – ↑5 – ↓2`  
 
 In C major:  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White → `C–↑G–↑B , C–↑G–↓D`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black → `C–↓G–↑B , C–↓G–↓D`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `C–↑G–↑B , C–↑G–↓D`  
 
 ---
 
